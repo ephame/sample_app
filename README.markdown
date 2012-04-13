@@ -1,4 +1,7 @@
-== Welcome to Rails
+# Ruby on Rails Tutorial: sample application
+
+This is a sample application for [*Ruby on Rails Tutorial: Learn Rails by Example*] (http://railstutorial.org/) by [Michael Hart1] (http://michaelhar1.com/).
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
